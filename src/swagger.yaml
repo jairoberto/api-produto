@@ -1,9 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  description: "API de Cadastro de Produtos - V2"
-  version: "2.0.0"
-  title: "Cadastro de Produtos - V2"
+  description: "API de Cadastro de Produtos - V3"
+  version: "3.0"
+  title: "Cadastro de Produtos - V3"
   contact:
     email: "fabricio@veronez.dev"
 paths:
