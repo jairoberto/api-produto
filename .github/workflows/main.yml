@@ -43,7 +43,7 @@ jobs:
           # Path to the Dockerfile
           file: ./src/Dockerfile
           push: true
-          tags: 
+          tags: |
             jairoberto/api-bootcamp-produto:latest
             jairoberto/api-bootcamp-produto:${{github.run_number}}
           
